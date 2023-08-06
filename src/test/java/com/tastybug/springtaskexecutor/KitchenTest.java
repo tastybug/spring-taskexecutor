@@ -19,7 +19,7 @@ import java.util.concurrent.TimeUnit;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @SpringJUnitConfig
-class SpringTaskExecutionApplicationTests {
+class KitchenTest {
 
 
 	@Import(KitchenConfig.class)
