@@ -21,7 +21,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 @SpringJUnitConfig
 class KitchenTest {
 
-
 	@Import(KitchenConfig.class)
 	@Configuration
 	static class TestConfig {
